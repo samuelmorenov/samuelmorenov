@@ -4,16 +4,16 @@
 
 [Pagina personal](https://github.com/samuelmorenov/samuelmorenov.github.io) 
 [[Despliegue]](https://samuelmorenov.github.io/)
-HMTL
+<img src="/images/html.png" width="24">
 
 [Ejemplo de JPA simple](https://github.com/samuelmorenov/JPA_Simple)
-Java
+<img src="/images/java.png" width="24">
 
 [Ejemplo React simple](https://github.com/samuelmorenov/Hello-World-React)
-React
+<img src="/images/react.png" width="24">
 
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
-GIT
+<img src="/images/git.png" width="24">
 
 ---
 
@@ -23,45 +23,45 @@ GIT
 [[Despliegue Basica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraBasica.html) 
 [[Despliegue Cientifica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
 (Asignatura:  SEW)
-HTML/JS
+<img src="/images/html.png" width="24">/<img src="/images/js.png" width="24">
 
 [Juego LightOut](https://github.com/samuelmorenov/SEW-LightOut)
 [[Despliegue]](https://samuelmorenov.github.io/SEW-LightOut/LightOut.html)
 (Asignatura:  SEW)
-HTML/JS
+<img src="/images/html.png" width="24">/<img src="/images/js.png" width="24">
 
 [Ejemplos Python](https://github.com/samuelmorenov/FI-Apuntes-Python)
 (Asignatura:  FI)
-PYTON
+<img src="/images/python.png" width="24">
 
 [Gestion de socios](https://github.com/samuelmorenov/IPS-Socios)
 (Asignatura:  IPS)
-Java
+<img src="/images/java.png" width="24">
 
 [Simulador de SO](https://github.com/samuelmorenov/SO-Simulador)
 (Asignatura:  SO)
-C
+<img src="/images/c.png" width="24">
 
 [Compilador](https://github.com/samuelmorenov/DLP-Compilador)
 (Asignatura:  DLP)
-Java 
+<img src="/images/java.png" width="24"> 
 
 [ElasticSearch](https://github.com/samuelmorenov/RI-ElasticSearch)
 (Asignatura:  RI)
-Python
+<img src="/images/python.png" width="24">
 
 [Taller de Coches](https://github.com/samuelmorenov/RI-JDBC)
 (Asignatura:  RI)
-Java
+<img src="/images/java.png" width="24">
 
 [Taller de Coches](https://github.com/samuelmorenov/RI-JPA)
 (Asignatura:  RI)
-Java
+<img src="/images/java.png" width="24">
 
 [Viade](https://github.com/Arquisoft/viade_es1a)
 [[Despliegue]](https://arquisoft.github.io/viade_es1a/)
 (Asignatura:  ASW)
-React
+<img src="/images/react.png" width="24">
 
 ---
 
@@ -69,52 +69,52 @@ React
 
 [Iniciativa](https://github.com/samuelmorenov/DP-Iniciativa)
 (Asignatura:  DP)
-Java
+<img src="/images/java.png" width="24">
 
 [Parking](https://github.com/samuelmorenov/PCD-Parking)
 (Asignatura:  PCD)
-Java
+<img src="/images/java.png" width="24">
 
 [POUEX](https://github.com/samuelmorenov/DMSS-POUEX)
 (Asignatura:  DMSS)
-Java
+<img src="/images/java.png" width="24">
 
 [Procesamiento de imagenes I](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-1)
 (Asignatura:  AOC)
-Ensamblador
+<img src="/images/asm.png" width="24">
 
 [Procesamiento de imagenes II](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-2) 
 (Asignatura:  AOC)
-Ensamblador
+<img src="/images/asm.png" width="24">
 
 [Procesamiento de imagenes III](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-3)
 (Asignatura:  AOC)
-Ensamblador
+<img src="/images/asm.png" width="24">
 
 [Cuadrados](https://github.com/samuelmorenov/ID-Cuadrados)
 (Asignatura:  ID)
-C++
+<img src="/images/c++.png" width="24">
 
 [Planetario](https://github.com/samuelmorenov/ID-Planetario)
 (Asignatura:  ID)
-C++
+<img src="/images/c++.png" width="24">
 
 [Contadores](https://github.com/samuelmorenov/ID-Contadores)
 (Asignatura:  ID)
-C++
+<img src="/images/c++.png" width="24">
 
 [Planetario RA](https://github.com/samuelmorenov/ID-Planetario-RA)
 (Asignatura:  ID)
-C
+<img src="/images/c.png" width="24">
 
 [Object Tracking](https://github.com/samuelmorenov/ID-Object-Tracking)
 (Asignatura:  ID)
-C++
+<img src="/images/c++.png" width="24">
 
 [Seguridad](https://github.com/samuelmorenov/BSS-Seguridad)
 (Asignatura:  BSS)
-Java
+<img src="/images/java.png" width="24">
 
 [Reconocimiento de Huellas](https://github.com/samuelmorenov/BSS-Huellas)
 (Asignatura:  BSS)
-Java
+<img src="/images/java.png" width="24">
