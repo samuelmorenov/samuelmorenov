@@ -118,3 +118,35 @@
 [Reconocimiento de Huellas](https://github.com/samuelmorenov/BSS-Huellas)
 (Asignatura:  BSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
+
+<!-- Enlaces de imagenes:
+//TODO: No he sido capaz de crear variables en markdown para las imagenes
+
+Ensamblador:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
+
+C:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c.png" width="24">
+
+C++:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
+
+Git:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/git.png" width="24">
+
+HTML:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">
+
+Java:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
+
+JavaScript:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
+
+Python:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
+
+React:
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
+
+-->
