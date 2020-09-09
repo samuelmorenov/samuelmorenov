@@ -19,7 +19,7 @@
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
 
-[Juego LightOut](https://github.com/samuelmorenov/SEW-LightOut)
+[Juego LightOut en Html](https://github.com/samuelmorenov/SEW-LightOut)
 ~ [[Despliegue]](https://samuelmorenov.github.io/SEW-LightOut/LightOut.html)
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
@@ -32,27 +32,27 @@
 (Asignatura:  IPS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Simulador de SO](https://github.com/samuelmorenov/SO-Simulador)
+[Simulador de un SO](https://github.com/samuelmorenov/SO-Simulador)
 (Asignatura:  SO)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c.png" width="24">
 
-[Compilador](https://github.com/samuelmorenov/DLP-Compilador)
+[Compilador de un lenguaje de programacion](https://github.com/samuelmorenov/DLP-Compilador)
 (Asignatura:  DLP)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24"> 
 
-[ElasticSearch](https://github.com/samuelmorenov/RI-ElasticSearch)
+[Ejemplos de ElasticSearch](https://github.com/samuelmorenov/RI-ElasticSearch)
 (Asignatura:  RI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
 
-[Taller de Coches](https://github.com/samuelmorenov/RI-JDBC)
+[Taller de Coches con JDBC](https://github.com/samuelmorenov/RI-JDBC)
 (Asignatura:  RI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Taller de Coches](https://github.com/samuelmorenov/RI-JPA)
+[Taller de Coches con JPA](https://github.com/samuelmorenov/RI-JPA)
 (Asignatura:  RI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Viade](https://github.com/Arquisoft/viade_es1a)
+[Viade, gestor de rutas](https://github.com/Arquisoft/viade_es1a)
 ~ [[Despliegue]](https://arquisoft.github.io/viade_es1a/)
 (Asignatura:  ASW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
@@ -61,47 +61,47 @@
 
 ## Realizados en [Unex](https://www.unex.es/)
 
-[Iniciativa](https://github.com/samuelmorenov/DP-Iniciativa)
+[Iniciativa, simulador de laverinto](https://github.com/samuelmorenov/DP-Iniciativa)
 (Asignatura:  DP)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Parking](https://github.com/samuelmorenov/PCD-Parking)
+[Gestion de Parking de manera distribuida](https://github.com/samuelmorenov/PCD-Parking)
 (Asignatura:  PCD)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[POUEX](https://github.com/samuelmorenov/DMSS-POUEX)
+[POUEX, juego estilo Pou](https://github.com/samuelmorenov/DMSS-POUEX)
 (Asignatura:  DMSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Procesamiento de imagenes I](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-1)
+[Procesamiento de imagenes en ensamblador I](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-1)
 (Asignatura:  AOC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
 
-[Procesamiento de imagenes II](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-2) 
+[Procesamiento de imagenes en ensamblador  II](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-2) 
 (Asignatura:  AOC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
 
-[Procesamiento de imagenes III](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-3)
+[Procesamiento de imagenes en ensamblador  III](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-3)
 (Asignatura:  AOC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
 
-[Cuadrados](https://github.com/samuelmorenov/ID-Cuadrados)
+[Detector de cuadrados en imagenes](https://github.com/samuelmorenov/ID-Cuadrados)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
-[Planetario](https://github.com/samuelmorenov/ID-Planetario)
+[Planetario en 3D](https://github.com/samuelmorenov/ID-Planetario)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
-[Contadores](https://github.com/samuelmorenov/ID-Contadores)
+[Lector de numeros en imagenes](https://github.com/samuelmorenov/ID-Contadores)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
-[Planetario RA](https://github.com/samuelmorenov/ID-Planetario-RA)
+[Planetario en 3D y RA](https://github.com/samuelmorenov/ID-Planetario-RA)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c.png" width="24">
 
-[Object Tracking](https://github.com/samuelmorenov/ID-Object-Tracking)
+[Object Tracking en video](https://github.com/samuelmorenov/ID-Object-Tracking)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
@@ -109,7 +109,7 @@
 (Asignatura:  BSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Reconocimiento de Huellas](https://github.com/samuelmorenov/BSS-Huellas)
+[Reconocimiento de huellas dactilares](https://github.com/samuelmorenov/BSS-Huellas)
 (Asignatura:  BSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
