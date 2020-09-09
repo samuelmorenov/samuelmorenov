@@ -3,7 +3,7 @@
 ## Proyectos propios
 
 [Pagina personal](https://github.com/samuelmorenov/samuelmorenov.github.io) 
-[[Despliegue]](https://samuelmorenov.github.io/)
+~ [[Despliegue]](https://samuelmorenov.github.io/)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">
 
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
@@ -14,13 +14,13 @@
 ## Realizados en [Uniovi](https://www.uniovi.es/)
 
 [Calculadora](https://github.com/samuelmorenov/SEW-Calculadora) 
-[[Despliegue Basica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraBasica.html) 
-[[Despliegue Cientifica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
+~ [[Despliegue Basica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraBasica.html) 
+~ [[Despliegue Cientifica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
 
 [Juego LightOut](https://github.com/samuelmorenov/SEW-LightOut)
-[[Despliegue]](https://samuelmorenov.github.io/SEW-LightOut/LightOut.html)
+~ [[Despliegue]](https://samuelmorenov.github.io/SEW-LightOut/LightOut.html)
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
 
@@ -53,7 +53,7 @@
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
 [Viade](https://github.com/Arquisoft/viade_es1a)
-[[Despliegue]](https://arquisoft.github.io/viade_es1a/)
+~ [[Despliegue]](https://arquisoft.github.io/viade_es1a/)
 (Asignatura:  ASW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
 
