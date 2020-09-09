@@ -9,6 +9,10 @@
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/git.png" width="24">
 
+[Ejemplo simple de JPA](https://github.com/samuelmorenov/JPA-Simple) *WIP*
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
+
+
 ---
 
 ## Realizados en [Uniovi](https://www.uniovi.es/)
