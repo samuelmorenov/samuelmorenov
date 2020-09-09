@@ -6,12 +6,6 @@
 [[Despliegue]](https://samuelmorenov.github.io/)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">
 
-[Ejemplo de JPA simple](https://github.com/samuelmorenov/JPA_Simple)
-<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
-
-[Ejemplo React simple](https://github.com/samuelmorenov/Hello-World-React)
-<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
-
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/git.png" width="24">
 
