@@ -9,7 +9,7 @@
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/git.png" width="24">
 
-[Ejemplo simple de JPA](https://github.com/samuelmorenov/JPA-Simple) *WIP*
+[Ejemplo simple de JPA](https://github.com/samuelmorenov/JPA-Simple)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
 
