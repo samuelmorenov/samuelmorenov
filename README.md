@@ -2,7 +2,7 @@
 
 ## Proyectos propios
 
-[Pagina personal](https://github.com/samuelmorenov/samuelmorenov.github.io) 
+[Página personal](https://github.com/samuelmorenov/samuelmorenov.github.io) 
 ~ [[Despliegue]](https://samuelmorenov.github.io/)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">
 
@@ -18,8 +18,8 @@
 ## Realizados en [Uniovi](https://www.uniovi.es/)
 
 [Calculadora](https://github.com/samuelmorenov/SEW-Calculadora) 
-~ [[Despliegue Basica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraBasica.html) 
-~ [[Despliegue Cientifica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
+~ [[Despliegue versión básica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraBasica.html) 
+~ [[Despliegue versión cientifica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
 
@@ -32,7 +32,7 @@
 (Asignatura:  FI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
 
-[Gestion de socios](https://github.com/samuelmorenov/IPS-Socios)
+[Gestión de socios](https://github.com/samuelmorenov/IPS-Socios)
 (Asignatura:  IPS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
@@ -40,7 +40,7 @@
 (Asignatura:  SO)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c.png" width="24">
 
-[Compilador de un lenguaje de programacion](https://github.com/samuelmorenov/DLP-Compilador)
+[Compilador de un lenguaje de programación](https://github.com/samuelmorenov/DLP-Compilador)
 (Asignatura:  DLP)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24"> 
 
@@ -48,11 +48,11 @@
 (Asignatura:  RI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
 
-[Taller de Coches con JDBC](https://github.com/samuelmorenov/RI-JDBC)
+[Taller de coches con JDBC](https://github.com/samuelmorenov/RI-JDBC)
 (Asignatura:  RI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Taller de Coches con JPA](https://github.com/samuelmorenov/RI-JPA)
+[Taller de coches con JPA](https://github.com/samuelmorenov/RI-JPA)
 (Asignatura:  RI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
@@ -65,11 +65,11 @@
 
 ## Realizados en [Unex](https://www.unex.es/)
 
-[Iniciativa, simulador de laverinto](https://github.com/samuelmorenov/DP-Iniciativa)
+[Iniciativa, simulador de laberinto](https://github.com/samuelmorenov/DP-Iniciativa)
 (Asignatura:  DP)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Gestion de Parking de manera distribuida](https://github.com/samuelmorenov/PCD-Parking)
+[Gestión de parking distribuida](https://github.com/samuelmorenov/PCD-Parking)
 (Asignatura:  PCD)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
@@ -77,19 +77,19 @@
 (Asignatura:  DMSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Procesamiento de imagenes en ensamblador I](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-1)
+[Procesamiento de imágenes en ensamblador I](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-1)
 (Asignatura:  AOC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
 
-[Procesamiento de imagenes en ensamblador  II](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-2) 
+[Procesamiento de imágenes en ensamblador  II](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-2) 
 (Asignatura:  AOC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
 
-[Procesamiento de imagenes en ensamblador  III](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-3)
+[Procesamiento de imágenes en ensamblador  III](https://github.com/samuelmorenov/AOC-Procesamiento-Imagenes-3)
 (Asignatura:  AOC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/asm.png" width="24">
 
-[Detector de cuadrados en imagenes](https://github.com/samuelmorenov/ID-Cuadrados)
+[Detector de cuadrados en imágenes](https://github.com/samuelmorenov/ID-Cuadrados)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
@@ -97,15 +97,15 @@
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
-[Lector de numeros en imagenes](https://github.com/samuelmorenov/ID-Contadores)
+[Lector de números en imágenes](https://github.com/samuelmorenov/ID-Contadores)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
-[Planetario en 3D y RA](https://github.com/samuelmorenov/ID-Planetario-RA)
+[Planetario en 3D y realidad aumentada](https://github.com/samuelmorenov/ID-Planetario-RA)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c.png" width="24">
 
-[Object Tracking en video](https://github.com/samuelmorenov/ID-Object-Tracking)
+[Seguimiento de objetos en vídeo](https://github.com/samuelmorenov/ID-Object-Tracking)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
