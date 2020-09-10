@@ -19,11 +19,11 @@
 
 [Calculadora](https://github.com/samuelmorenov/SEW-Calculadora) 
 ~ [[Despliegue versión básica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraBasica.html) 
-~ [[Despliegue versión cientifica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
+~ [[Despliegue versión científica]](https://samuelmorenov.github.io/SEW-Calculadora/CalculadoraCientifica.html)
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
 
-[Juego LightOut en Html](https://github.com/samuelmorenov/SEW-LightOut)
+[Juego LightOut en HTML](https://github.com/samuelmorenov/SEW-LightOut)
 ~ [[Despliegue]](https://samuelmorenov.github.io/SEW-LightOut/LightOut.html)
 (Asignatura:  SEW)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">/<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/js.png" width="24">
