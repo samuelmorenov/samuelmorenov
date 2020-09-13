@@ -72,6 +72,10 @@
 (Asignatura:  BSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
+[Protocolo Maestro-Esclavo con errores]
+(Asignatura: FRC)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
+
 [Seguimiento de objetos en vídeo](https://github.com/samuelmorenov/ID-Object-Tracking)
 (Asignatura:  ID)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
