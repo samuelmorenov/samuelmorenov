@@ -116,6 +116,10 @@
 (Asignatura:  DP)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
+[Juego LightOut en C++](https://github.com/samuelmorenov/IP-Lights-Out)
+(Asignatura: IP)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
+
 <!-- Enlaces de imagenes:
 //TODO: No he sido capaz de crear variables en markdown para las imagenes
 
