@@ -72,7 +72,7 @@
 (Asignatura:  BSS)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
-[Protocolo Maestro-Esclavo con errores]
+[Protocolo Maestro-Esclavo con errores](https://github.com/samuelmorenov/FRC-Protocolo-Maestro-Esclavo-Con-Errores)
 (Asignatura: FRC)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/c++.png" width="24">
 
