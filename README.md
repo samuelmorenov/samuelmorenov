@@ -12,9 +12,18 @@
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/git.png" width="24">
 
+[Hello-World en React](https://github.com/Arquisoft/Hello-World-React)
+~ [[Despliegue]](https://arquisoft.github.io/Hello-World-React/)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
+
 ---
 
 ## Realizados en [Uniovi](https://www.uniovi.es/)
+
+[Listado de proyectos con Spring y Node](https://github.com/samuelmorenov/SDI-MetaProyecto)
+(Asignatura:  SDI)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/node.png" width="24">
 
 [Viade, gestor de rutas](https://github.com/Arquisoft/viade_es1a)
 ~ [[Despliegue]](https://arquisoft.github.io/viade_es1a/)
