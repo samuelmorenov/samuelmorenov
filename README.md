@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">
 --> 
 
-[Simulacion de la paradoja de Monty Hall](Paradoja-Monty-Hall)
+[Simulacion de la paradoja de Monty Hall](https://github.com/samuelmorenov/Paradoja-Monty-Hall)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
 
 [Ejemplo simple de JPA](https://github.com/samuelmorenov/JPA-Simple)
