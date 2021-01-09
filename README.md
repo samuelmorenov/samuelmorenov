@@ -173,3 +173,9 @@ React:
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
 
 -->
+
+---
+
+<img align="left" alt="Samuel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=samuelmorenov&show_icons=true&hide_border=true" />
+
+<img align="center" alt="Samuel's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmorenov&layout=compact" />
