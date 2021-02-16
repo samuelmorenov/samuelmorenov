@@ -2,11 +2,8 @@
 
 ## Proyectos propios
 
-<!-- 
-[Página personal](https://github.com/samuelmorenov/samuelmorenov.github.io) 
-~ [[Despliegue]](https://samuelmorenov.github.io/)
-<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/html.png" width="24">
---> 
+[Descenso del Gradiente](https://github.com/samuelmorenov/Descenso-del-Gradiente)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
 
 [Simulacion de la paradoja de Monty Hall](https://github.com/samuelmorenov/Paradoja-Monty-Hall)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/java.png" width="24">
@@ -16,12 +13,6 @@
 
 [Lista de comandos para Git](https://github.com/samuelmorenov/Git_Comandos)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/git.png" width="24">
-
-<!-- 
-[Hello-World en React](https://github.com/Arquisoft/Hello-World-React)
-~ [[Despliegue]](https://arquisoft.github.io/Hello-World-React/)
-<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
--->
 
 ---
 
