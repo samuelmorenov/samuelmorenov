@@ -2,6 +2,9 @@
 
 ## Proyectos propios
 
+[El Favor de las Guerreras](https://github.com/samuelmorenov/El-Favor-de-las-Guerreras)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
+
 [Descenso del Gradiente](https://github.com/samuelmorenov/Descenso-del-Gradiente)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
 
