@@ -21,6 +21,10 @@
 
 ## Realizados en [Uniovi](https://www.uniovi.es/)
 
+[My wallapop con Spring](https://github.com/samuelmorenov/sdi-entrega1-2021-1005)
+(Asignatura:  SDI)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
+
 [Practicas Spring](https://github.com/samuelmorenov/sdi2021-1005-lab-jee)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
