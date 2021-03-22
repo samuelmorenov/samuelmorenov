@@ -25,10 +25,6 @@
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
 
-[Practicas Spring](https://github.com/samuelmorenov/sdi2021-1005-lab-jee)
-(Asignatura:  SDI)
-<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
-
 [Red social con NodeJs](https://github.com/samuelmorenov/SDI-Red-Social-NodeJs)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/node.png" width="24">
