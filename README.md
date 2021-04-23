@@ -3,6 +3,7 @@
 ## Proyectos propios
 
 [El Favor de las Guerreras](https://github.com/samuelmorenov/El-Favor-de-las-Guerreras)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/tensorflow.png" width="24">
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/python.png" width="24">
 
 [Clasificador de Imagenes](https://github.com/samuelmorenov/Clasificador-de-Imagenes)
@@ -178,6 +179,9 @@ Python:
 
 React:
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/react.png" width="24">
+
+Tensorflow
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/tensorflow.png" width="24">
 
 -->
 
