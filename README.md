@@ -25,8 +25,7 @@
 ---
 
 ## Realizados en [Uniovi](https://www.uniovi.es/)
-
-[Practicas Node](https://github.com/samuelmorenov/sdi2021-1005-lab-node)
+[My wallapop con Node](https://github.com/samuelmorenov/sdi-entrega2-2021-1005)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/node.png" width="24">
 
@@ -41,6 +40,11 @@
 [Red social con Spring](https://github.com/samuelmorenov/SDI-Red-Social-Spring)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
+
+[Practicas de laboratorio de Spring y Node](https://github.com/samuelmorenov/SDI-Laboratorios)
+(Asignatura:  SDI)
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
+<img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/node.png" width="24">
 
 [Viade, gestor de rutas](https://github.com/Arquisoft/viade_es1a)
 ~ [[Despliegue]](https://arquisoft.github.io/viade_es1a/)
