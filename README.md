@@ -25,19 +25,19 @@
 ---
 
 ## Realizados en [Uniovi](https://www.uniovi.es/)
-[My wallapop con Node](https://github.com/samuelmorenov/sdi-entrega2-2021-1005)
+[My wallapop con Node](https://github.com/samuelmorenov/SDI-2021-Wallapop-NodeJs)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/node.png" width="24">
 
-[My wallapop con Spring](https://github.com/samuelmorenov/sdi-entrega1-2021-1005)
+[My wallapop con Spring](https://github.com/samuelmorenov/SDI-2021-Wallapop-Spring)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
 
-[Red social con NodeJs](https://github.com/samuelmorenov/SDI-Red-Social-NodeJs)
+[Red social con NodeJs](https://github.com/samuelmorenov/SDI-2021-Red-Social-NodeJs)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/node.png" width="24">
 
-[Red social con Spring](https://github.com/samuelmorenov/SDI-Red-Social-Spring)
+[Red social con Spring](https://github.com/samuelmorenov/SDI-2021-Red-Social-Spring)
 (Asignatura:  SDI)
 <img src="https://raw.githubusercontent.com/samuelmorenov/samuelmorenov/master/images/spring.png" width="24">
 
